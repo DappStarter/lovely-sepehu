@@ -1,0 +1,11 @@
+{
+    "name": "sefsdf",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage": false,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true
+    }
+}
